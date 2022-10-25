@@ -1,1 +1,1 @@
-consol.log("Pozdrav iz aplikacije")
+consol.log("Pozdrav iz aplikacije od Luka Vuk")
